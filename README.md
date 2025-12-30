@@ -3,24 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Jeremy, an Information Systems undergraduate from SMU.</div>  
-  
+## <div align="center">I'm Jeremy, an Information Systems undergraduate from SMU.</div>  
+
+### Full-Stack Engineer (React • Node.js • Laravel • AWS)
+
+I build production-ready web applications end-to-end, from frontend UI to backend APIs and databases.
 
 <br/>  
 
-
-## My Skill Set  
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="75" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
+## Selected Projects
+- **SBRP** – Skill-based role matching platform (Laravel, MySQL)  
+- **Flirtify** – Microservices-based full-stack app (Docker, Node.js)  
 
 <br/>  
 
@@ -39,13 +32,13 @@
 ## Github Stats  
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeremygmc&show_icons=true&theme=apprentice" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeremygmc1&show_icons=true&theme=apprentice" align="center" />
 </div>  
 
 <br />
   
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jeremygmc&theme=dark" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jeremygmc1&theme=dark" align="center" />
 </div>  
 
 <br />
