@@ -31,14 +31,10 @@ I build production-ready web applications end-to-end, from frontend UI to backen
 
 ## Github Stats  
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jeremygmc1&show_icons=true&theme=apprentice" align="center" />
-</div>  
-
 <br />
   
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jeremygmc1&theme=dark" align="center" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=jeremygmc&theme=dark" align="center" />
 </div>  
 
 <br />
